@@ -1,0 +1,7 @@
+CODIGO: SQL-T4-4827
+MENSAJES_MIOS: 3
+PRIMER_MENSAJE: "Estoy haciendo la práctica 1 de SQL del tema 4 y he preparado una propuesta"
+ULTIMO_MENSAJE: "detalles y mantengo el resto del código igual; confirma que los INSERT siguen siendo válidos."
+USO: Pedí revisar mi CREATE TABLE y los INSERT de Parches, Spirit, Perla, Fresa y Nilo, sin hacer la práctica desde cero. La IA revisó la estructura, los tipos de datos y los valores, y propuso correcciones puntuales.
+ERRORES: Yo detecté dos errores en las propuestas iniciales: la IA había introducido 250 gramos de comida como 250 kg en lugar de 0,25 kg y había establecido la fecha de nacimiento como obligatoria, aunque no se conocía la de Fresa y Nilo. Se corrigieron ambos detalles.
+CALIDAD/PROACTIVIDAD/INDEPENDENCIA: Calidad 4/5: las soluciones eran correctas en general tras los ajustes. Proactividad 3/5: revisó la estructura y señaló aspectos mejorables, pero necesitó indicaciones para esos dos casos. Independencia 4/5: aporté mi propio código, comprobé las respuestas y decidí qué correcciones aplicar.
